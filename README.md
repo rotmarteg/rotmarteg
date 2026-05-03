@@ -9,15 +9,22 @@ Minha trajetória é marcada pela transição estratégica da logística física
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+
 ### **Frontend & Visualização**
-*   **JavaScript (ES6+):** Linguagem base para todas as minhas soluções web.
-*   **Three.js:** Utilizado para a criação de ambientes 3D imersivos e cálculos de cubagem espacial.
-*   **React:** Em constante evolução para a criação de interfaces dinâmicas e escaláveis.
-*   **HTML5 & CSS3:** Foco em semântica e design responsivo para o ambiente industrial.
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Three.js](https://img.shields.io/badge/Three.js%20-%20black.svg?style=for-the-badge&logo=three.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### **Backend & Dados**
-*   **Node.js:** Construção de aplicações server-side eficientes.
-*   **MySQL:** Certificado pela Alura; utilizado para modelagem de inventários e persistência de fluxos logísticos.
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### **Outras Ferramentas**
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-05142b?style=for-the-badge&logo=davinciresolve&logoColor=white)
 
 ---
 
