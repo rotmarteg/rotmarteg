@@ -38,7 +38,7 @@ O **Smart Load 2.0** é o meu projeto principal, desenvolvido para ser o "braço
 ---
 
 ## 🤝 Conecte-se Comigo
-*   💼 **LinkedIn:** [Acesse meu perfil profissional](https://www.linkedin.com/in/emanuel-dias-6a6b1a20b/)
+*   💼 **LinkedIn:** [Acesse meu perfil profissional](https://www.linkedin.com/in/emanueldias-front-end/)
 *   🎮 **Hardware:** RTX 3060 Ti + Ryzen 7 5700X.
 
 ---
