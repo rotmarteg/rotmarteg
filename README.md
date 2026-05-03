@@ -4,7 +4,7 @@
 Sou um desenvolvedor apaixonado por resolver problemas do mundo real através do código. Atualmente, curso **Análise e Desenvolvimento de Sistemas** no Centro Universitário ENIAC e sou estudante da plataforma **Alura**, onde aprofundo meus conhecimentos em tecnologias modernas de software.
 
 Minha trajetória é marcada pela transição estratégica da logística física para a inteligência de dados. Como assistente na **Fanavid**, utilizo minha vivência operacional para construir soluções que otimizam o fluxo de pátio e a segurança na expedição de vidros planos.
-
+https://cursos.alura.com.br/user/emanueldias841
 ---
 
 ## 🛠️ Tech Stack
