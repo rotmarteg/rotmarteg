@@ -1,4 +1,4 @@
-# 🚀 Emanuel Dias | Full-Stack Developer & Logistics Innovator
+# 🚀 Emanuel Dias | Full-Stack
 
 ## 👨‍💻 Sobre Mim
 Sou um desenvolvedor e analista focado em resolver problemas reais de negócio através do código e da inteligência de dados. Atualmente, estou no último ano de Análise e Desenvolvimento de Sistemas (ADS) no Centro Universitário ENIAC e sou estudante ativo na Alura, onde aprofundo constantemente meus conhecimentos em arquitetura de software e banco de dados.
