@@ -1,9 +1,7 @@
 # 🚀 Emanuel Dias | Full-Stack Developer & Logistics Innovator
 
 ## 👨‍💻 Sobre Mim
-Sou um desenvolvedor apaixonado por resolver problemas do mundo real através do código. Atualmente, curso **Análise e Desenvolvimento de Sistemas** no Centro Universitário ENIAC e sou estudante da plataforma **Alura**, onde aprofundo meus conhecimentos em tecnologias modernas de software.
-
-Minha trajetória é marcada pela transição estratégica da logística física para a inteligência de dados. Como assistente na **Fanavid**, utilizo minha vivência operacional para construir soluções que otimizam o fluxo de pátio e a segurança na expedição de vidros planos.
+Sou um desenvolvedor e analista focado em resolver problemas reais de negócio através do código e da inteligência de dados. Atualmente, estou no último ano de Análise e Desenvolvimento de Sistemas (ADS) no Centro Universitário ENIAC e sou estudante ativo na Alura, onde aprofundo constantemente meus conhecimentos em arquitetura de software e banco de dados.
 
 [Confira meu progresso e certificações na Alura](https://cursos.alura.com.br/user/emanueldias841):books:
 
