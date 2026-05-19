@@ -2,6 +2,8 @@
 
 ## 👨‍💻 Sobre Mim
 Sou um desenvolvedor e analista focado em resolver problemas reais de negócio através do código e da inteligência de dados. Atualmente, estou no último ano de Análise e Desenvolvimento de Sistemas (ADS) no Centro Universitário ENIAC e sou estudante ativo na Alura, onde aprofundo constantemente meus conhecimentos em arquitetura de software e banco de dados.
+Minha trajetória une a vivência prática em logística e expedição com a paixão pela tecnologia. Desenvolvo soluções completas (Full Stack) e sistemas de automação utilizando JavaScript (Node.js), Python e modelagem de dados com SQL (MySQL). Um dos meus principais destaques é a criação de um software próprio de cubagem em 3D, focado em otimização de carregamento, redução de custos operacionais e inteligência logística.
+Busco minha primeira oportunidade como Estagiário ou Assistente na área de TI (Desenvolvimento / Dados / Suporte), pronto para aplicar raciocínio lógico, proatividade e foco em eficiência para gerar resultados reais.
 
 [Confira meu progresso e certificações na Alura](https://cursos.alura.com.br/user/emanueldias841):books:
 
